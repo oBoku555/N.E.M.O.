@@ -37,7 +37,7 @@
    * TextMeshPro
 4. **初次開啟**：
    使用 Unity Hub 開啟資料夾後，系統會自動重建 Library 資料夾（需耗時數分鐘）。請開啟 Assets/Scenes/MainScene.unity 場景。
-   然後會進入到unity預設的MainScene **請不要存檔**　　　　　　　
+   然後會進入到unity預設的MainScene **請不要存檔**<br>　　　
    點開Assets/Scenes找到MainScene並打開。
 6. **編譯發布**：
    透過 File > Build Settings 選擇 PC 平台進行導出。
