@@ -1,5 +1,5 @@
 # 軟體設計規格書 (Software Design Description, SDD)
-## 專案名稱：N.E.M.O. - 鳴潮風格工作陪伴系統
+## 專案名稱：N.E.M.O. - 工作陪伴軟體
 
 ## 1. 實踐路徑：從 Constitution 到 Audit (SDLC)
 本專案嚴格遵循「規格先行」的循環開發路徑，確保每一行代碼皆有據可依。
