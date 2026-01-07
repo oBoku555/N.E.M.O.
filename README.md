@@ -26,6 +26,8 @@
     * 寫作了README.md
 ## 安裝與編譯指南 (Installation & Build Guide)
 
+* 本專案使用付費插件 ZFBrowser，因版權限制未包含在 Repo 中。
+* 
 1. **取得原始碼**：
    使用 git clone [https://github.com/oBoku555/N.E.M.O./tree/main] 下載專案。
 2. **Unity 版本需求**：
@@ -35,9 +37,11 @@
    * TextMeshPro
 4. **初次開啟**：
    使用 Unity Hub 開啟資料夾後，系統會自動重建 Library 資料夾（需耗時數分鐘）。請開啟 Assets/Scenes/MainScene.unity 場景。
-5. **編譯發布**：
+   然後會進入到unity預設的MainScene ## 請不要存檔
+   點開Assets/Scenes找到MainScene並打開。
+6. **編譯發布**：
    透過 File > Build Settings 選擇 PC 平台進行導出。
-* 本專案使用付費插件 ZFBrowser，因版權限制未包含在 Repo 中。
+
 ## 專案架構說明 (Project Architecture)
 
 * Assets/Scripts/Button/：收納 UI 交互邏輯（如 YouTube 開關控制）。
