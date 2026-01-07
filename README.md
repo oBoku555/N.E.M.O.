@@ -37,7 +37,7 @@
    使用 Unity Hub 開啟資料夾後，系統會自動重建 Library 資料夾（需耗時數分鐘）。請開啟 Assets/Scenes/MainScene.unity 場景。
 5. **編譯發布**：
    透過 File > Build Settings 選擇 PC 平台進行導出。
-
+* 本專案使用付費插件 ZFBrowser，因版權限制未包含在 Repo 中。
 ## 專案架構說明 (Project Architecture)
 
 * Assets/Scripts/Button/：收納 UI 交互邏輯（如 YouTube 開關控制）。
