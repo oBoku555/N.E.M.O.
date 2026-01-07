@@ -4810,8 +4810,8 @@ MonoBehaviour:
   audioSource: {fileID: 595007182}
   musicTracks:
   - {fileID: 8300000, guid: d8e12ca8521e1d7449bd0d5b5488f867, type: 3}
-  - {fileID: 8300000, guid: f1fef3cb706f70940935096dcd6ae9a7, type: 3}
-  - {fileID: 8300000, guid: fd70fe765a0b3c749b8a61b31a8c832c, type: 3}
+  - {fileID: 8300000, guid: 0e6e91eac91d1144d9c920e86b1f5d41, type: 3}
+  - {fileID: 8300000, guid: 0e2a299d6ca8940419e9831d3f32f0f0, type: 3}
   musicName: {fileID: 1719459582}
   musicNameButton: {fileID: 3535019314119505381, guid: 6196d812e9c41834d83edd4841eb0b53, type: 3}
   musicList: {fileID: 1007590201}
