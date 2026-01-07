@@ -53,5 +53,5 @@
 
 ## 授權與發布
 
-* 發布平台：itch.io
+* 發布平台：itch.io(https://oboku555.itch.io/nemo)
 * 版本控制：GitHub
