@@ -22,7 +22,7 @@
     * 透過 AI 協助重構 MainMenuController.cs，將選單擴展為支援「功能入口」與「詳細設定」的兩層式導航架構。
 3. **環境調試**：
     * 解決了 Visual Studio 的 Unicode 編碼衝突問題，確保跨平台開發時腳本文字的一致性。
-4.**文件整理**
+4. **文件整理**：
     * 寫作了README.md
 ## 安裝與編譯指南 (Installation & Build Guide)
 
