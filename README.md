@@ -1,6 +1,6 @@
-# Wuthering Companion - 鳴潮風格工作陪伴系統
+# N.E.M.O
 
-這是一款以《鳴潮》視覺風格為靈感開發的 Unity 工作陪伴工具。旨在提供使用者一個沉浸式的二次元辦公與學習環境，整合了媒體播放、時間管理與多功能小工具。
+這是一款以 Unity 工作陪伴工具。旨在提供使用者一個沉浸式的二次元辦公與學習環境，整合了媒體播放、時間管理與多功能小工具。
 
 ## 核心功能 (Key Features)
 
@@ -26,7 +26,7 @@
 ## 安裝與編譯指南 (Installation & Build Guide)
 
 1. **取得原始碼**：
-   使用 git clone [您的 GitHub 專案網址] 下載專案。
+   使用 git clone [https://github.com/oBoku555/N.E.M.O./tree/main] 下載專案。
 2. **Unity 版本需求**：
    建議使用 Unity 2022.3 LTS 或更高版本開啟。
 3. **依賴插件**：
